@@ -2,6 +2,8 @@
 
 In the main export directory there is the exported model and a directory named variables that make up the Tensorflow model. There is also a file named signature.json which contains information about your Lobe project. With these, you are ready to use your model! If you want to see an example of how to use this model, there are instructions below for running a quick test script.
 
+My project was to create a sign langauge translator that would allow everyone to communicate together! I got the idea from a youtube video I watched where someone explained the simple logistics and idea behind making a translator. Using that video as inspiration, I found a dataset of 87,000 images and used that to train my AI. Unfortunately, due to GitHub's new policies and limits on file uploads, I can only upload a tiny fraction of the dataset that I had used. 
+
 ## Example Contents
 
 `signature.json` is created by Lobe and contains information about the model such as label names and the image size and shape the model expects.
